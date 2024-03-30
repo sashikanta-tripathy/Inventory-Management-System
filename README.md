@@ -1,4 +1,4 @@
-<h1># inventory-management-system</h1>
+<h1># Inventory-Management-System</h1>
 
  Welcome to the Inventory Management System, a project developed using Spring Boot. This system provides a platform for owners and managers to efficiently manage their inventory, sales, and product records. In this README file, we will provide an overview of the system's features and how to use them effectively.
 
